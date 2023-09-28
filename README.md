@@ -7,3 +7,4 @@
 <li>&#128172;Пробовал себя в разных языках.</li><br>
 <li>&#9989;Самыми подходящими оказались С++ и HTML + Допл.(css, java script, php).</li><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
